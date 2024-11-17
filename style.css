@@ -1,0 +1,13 @@
+#container {
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.littleBox {
+    width: 20px;
+    height: 20px;
+    opacity: 0.1;
+}
